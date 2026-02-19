@@ -14,5 +14,5 @@ function addBurger() {
       }
 
 function changeFeaturedDrink() {
-    featuredDrink = 'The Javashake';
+    featuredDrink = 'The JavaShake';
 }
